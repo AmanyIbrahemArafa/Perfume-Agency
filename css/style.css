@@ -1733,7 +1733,7 @@ padding-top:60px;
      height:670PX;
         background-color:rgb(49, 49, 47);
            position:relative;
-           margin: auto;
+           margin:auto;
            }
           
  .computer-content{
@@ -1744,6 +1744,7 @@ padding-top:60px;
                padding-top:110px;
                position:relative;
                       z-index:9999;
+                      margin: auto;
                    }
  .computer-p{
         width:950px;
@@ -1757,7 +1758,7 @@ padding-top:60px;
             }
  .computer-content  img{
                 margin-top:40px;
-                margin:auto;
+              
                            }
                                                          
  .computer-circleS{
@@ -1836,13 +1837,10 @@ float:right;
 
   .container {
     width: 100%;
-    max-width: 1750px; /* أقصى عرض للشاشة الكبيرة */
-    margin-left: auto;
-    margin-right: auto;
-    margin: auto;
+    max-width: 1650px; /* أقصى عرض للشاشة الكبيرة */
+    margin-left:auto;
+    margin-right:auto;
+    margin:auto;
 }
 /* مثال لترتيب الكروت بمرونة */
 
-body{
-
-}
