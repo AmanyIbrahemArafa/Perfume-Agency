@@ -1836,18 +1836,11 @@ float:right;
 
   .container {
     width: 100%;
-    max-width: 1800px; /* أقصى عرض للشاشة الكبيرة */
+    max-width: 1700px; /* أقصى عرض للشاشة الكبيرة */
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
 }
 /* مثال لترتيب الكروت بمرونة */
-.works, .our, .table {
-    display: flex;
-    flex-wrap: wrap; /* لجعل الكروت تنزل لسطر جديد تلقائياً عند صغر الشاشة */
-    justify-content: center; /* لتوسيط الكروت في المنتصف */
-    gap: 20px; /* مسافة متساوية تلقائية بين الكروت */
-    width: 100%;
-    height: auto; /* تجنب الارتفاعات الثابتة التي تسبب تداخل العناصر */
-}
+
