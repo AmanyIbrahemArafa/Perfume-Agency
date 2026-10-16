@@ -514,8 +514,8 @@ font-size:rgb(240, 234, 181);
 
 
 .cantainer{
-width: 100%;
-    max-width: 1300px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
+width:100%;
+    max-width: 1800px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
     margin-left: auto;
     margin-right: auto;
 
@@ -1813,7 +1813,7 @@ float:right;
  margin-left:20px;
  margin-top:10PX;
  }
- .
+
 .footer-circle5:hover {
     background-color: #e4b314;      
     transform:scale(1.2);           
@@ -1821,16 +1821,20 @@ float:right;
                 0 0 40px #e4b31455; 
     cursor:pointer;
 }
-body {
-    width: 100vw;
-    height: 1055vh;
-}
+
 .container {
     width: 100%;
-    max-width: 1800px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
-    margin-left: auto;
-    margin-right: auto;
+    max-width:1800px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
+    margin-left:auto;
+    margin-right:auto;
 }
+body {
+    width: 100%;
+    overflow-x: hidden; /* لمنع ظهور شريط تمرير أفقي مزعج */
+}
+
+
+
                                     /* *******************************
                                                                    Footer
                                                                   ******************************** */
