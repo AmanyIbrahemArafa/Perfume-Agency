@@ -428,7 +428,7 @@ text-align:center;
  margin-top:20px;
  margin-bottom:150PX;
     position: relative;
-    margin:auto;
+ 
    }
  .offer-P1{
   font-size:24px;
@@ -491,7 +491,7 @@ font-size:rgb(240, 234, 181);
   text-transform:capitalize;
   font-size: 35px;
 }                                          
-..offer  i{
+.offer  i{
     font-size: 40px;
     color: #a5ec62;
     transition: all 0.4s ease;
