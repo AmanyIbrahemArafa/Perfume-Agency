@@ -1842,32 +1842,3 @@ body {
                                                                   ******************************** */
 
   
-  @media (max-width: 992px) {
-    .team, .Featured1, .Featured2, .Featured3, .Featured4, .Featured5, .Featured6 {
-        width: 100%;
-        max-width: 100%;
-        float: none;
-        margin: 10px auto;
-    }
-}
-
-.works, .our {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px; /* المسافة التلقائية بين الكروت بدلاً من الـ margin المعقد */
-}
-.container {
-    width: 100%;
-    max-width: 1800px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
-/* وتأكدي أن الـ body لا يحتوي على عرض ثابت بالـ vw */
-body {
-    width: 100%;
-    overflow-x: hidden;
-}
