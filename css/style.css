@@ -1753,7 +1753,7 @@ padding-top:60px;
          font-weight:bold;
                padding-left:20PX;
                padding-top:20PX;
-               margin:auto;
+               margin-left:99px;
             }
  .computer-content  img{
                 margin-top:40px;
@@ -1762,7 +1762,8 @@ padding-top:60px;
                                                          
  .computer-circleS{
                     margin-bottom:10PX;
-                        margin-left:600px;
+                     margin-left:99px;
+
                               }
  .computer-circle{
                width:15px ;
