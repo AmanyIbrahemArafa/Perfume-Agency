@@ -1827,7 +1827,7 @@ body {
 }
 .container {
     width: 100%;
-    max-width: 1300px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
+    max-width: 1800px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
     margin-left: auto;
     margin-right: auto;
 }
