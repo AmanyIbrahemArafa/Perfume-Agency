@@ -1843,7 +1843,7 @@ body {
 
   .container {
     width: 100%;
-    max-width: 1800px; /* أقصى عرض للشاشة الكبيرة */
+    max-width: 1600px; /* أقصى عرض للشاشة الكبيرة */
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
