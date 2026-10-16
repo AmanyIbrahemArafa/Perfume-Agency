@@ -410,7 +410,7 @@ height:1300px;
 margin-bottom:300px;
 margin-top:2 50px;
 background-color:#010701;
-margin: auto;
+margin:auto;
     }
  .offer{
   width:525px;
@@ -514,7 +514,10 @@ font-size:rgb(240, 234, 181);
 
 
 .cantainer{
-
+width: 100%;
+    max-width: 1300px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .partner{
@@ -1818,8 +1821,17 @@ float:right;
                 0 0 40px #e4b31455; 
     cursor:pointer;
 }
-
-                                      /* *******************************
+body {
+    width: 100vw;
+    height: 1055vh;
+}
+.container {
+    width: 100%;
+    max-width: 1300px; /* أو أي عرض لابتوب مرتاحة عليه زي 1200px */
+    margin-left: auto;
+    margin-right: auto;
+}
+                                    /* *******************************
                                                                    Footer
                                                                   ******************************** */
 
