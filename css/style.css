@@ -410,6 +410,7 @@ height:1300px;
 margin-bottom:300px;
 margin-top:2 50px;
 background-color:#010701;
+margin: auto;
     }
  .offer{
   width:525px;
@@ -1727,6 +1728,7 @@ padding-top:60px;
      height:670PX;
         background-color:rgb(49, 49, 47);
            position:relative;
+           margin: auto;
            }
           
  .computer-content{
