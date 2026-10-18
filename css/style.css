@@ -343,6 +343,7 @@ margin-bottom:100PX;
  z-index:1;
  display:block;
  word-spacing:2px;
+ margin-left: 200px;
   }
 .welcome-p1{
 padding-left:30px;
@@ -406,7 +407,7 @@ padding-left:30px;
     }
  .what{
 width:100%;
-height:1300px;
+height:850px;
 margin-bottom:300px;
 margin-top:250px;
 background-color:#010701;
@@ -425,10 +426,10 @@ text-align:center;
  position:relative;
  float:left;
  margin-left:70px;
- margin-top:20px;
+ margin-top:70px;
  margin-bottom:150PX;
     position: relative;
- 
+  margin-bottom:70PX;
    }
  .offer-P1{
   font-size:24px;
@@ -507,7 +508,8 @@ font-size:rgb(240, 234, 181);
     height: 2px;
     width: 80%;
     background-image:linear-gradient(to right, transparent, #1b1b1a, transparent);
-    margin: 30px auto;
+    margin:30px auto;
+   
 }
        
 
@@ -528,14 +530,15 @@ width:100%;
 
 }
 .works{
-  width:1600;
+  width:100%;
   height:1700px;
 
 background-color: #0f0d0a; /* لون داكن ليناسب العطور */
+
 }
 .Featured1{
-         width:385px;
-        height:700px;
+         width:450px;
+        height:800px;
         border:2px  solid  rgb(245, 242, 236);
         border-radius:19px;
        float:left;
@@ -550,6 +553,7 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
       background-size:cover;
        position: relative;
           font-size:25px;
+         margin-left: 200px;
             } 
 .Featured1  .Featured-content{
   position:absolute;
@@ -569,8 +573,8 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
   box-shadow: 0 15px 35px rgba(240, 239, 236, 0.35);
 }
 .Featured2{
-         width:385px;
-        height:700px;
+         width:450px;
+        height:800px;
         border:2px  solid  rgb(250, 244, 244);
         border-radius:19px;
        float:left;
@@ -604,8 +608,8 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
   opacity:1;
 }
     .Featured3{
-         width:385px;
-        height:700px;
+         width:450px;
+        height:800px;
         border:2px  solid  rgb(243, 238, 238);
         border-radius:19px;
        float:left;
@@ -618,6 +622,7 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
       background-size:cover;
        position: relative;
           font-size:25px;
+         
             } 
 .Featured3  .Featured-content{
   position:absolute;
@@ -637,8 +642,8 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
   box-shadow: 0 15px 35px rgba(240, 239, 236, 0.35);
 }
 .Featured4{
-         width:385px;
-        height:700px;
+         width:450px;
+        height:800px;
         border:2px  solid  rgb(248, 241, 241);
         border-radius:19px;
        float:left;
@@ -653,6 +658,7 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
       background-size:cover;
        position: relative;
           font-size:25px;
+           margin-left:200px;
             } 
 .Featured4  .Featured-content{
   position:absolute;
@@ -672,8 +678,8 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
   box-shadow: 0 15px 35px rgba(240, 239, 236, 0.35);
 }
 .Featured5{
-         width:385px;
-        height:700px;
+         width:450px;
+        height:800px;
         border:2px  solid  rgb(252, 246, 246);
         border-radius:19px;
        float:left;
@@ -705,8 +711,8 @@ background-color: #0f0d0a; /* لون داكن ليناسب العطور */
   box-shadow: 0 15px 35px rgba(240, 239, 236, 0.35);
 }
 .Featured6{
-         width:385px;
-         height:700px;
+         width:450px;
+         height:800px;
          border:2px  solid  rgb(243, 236, 236);
          border-radius:19px;
           float:left;
@@ -1276,9 +1282,10 @@ height:650PX;
  background-color:rgb(14, 13, 12);
 border:6px  solid  rgb(253, 188, 9);
 border-radius:33px;
+ 
   }
    .pricing{
-width:340px;
+width:350px;
 height:550px;
 border:6px  solid  rgb(253, 234, 63);
 border-radius:33px;
@@ -1289,6 +1296,7 @@ margin: 40px;
   position:relative;
   transition: 0.4s ease;
     box-shadow: 0 0 0 rgba(255,215,0,0);
+      margin-left:200px;
     }
     .pricing:hover{
     transform: translateY(-12px);
@@ -1437,6 +1445,7 @@ padding-left:40px;
 font-weight:600px;
 font-size:45px;
 margin-top:150px;
+  margin-left:150px;
 }
 .perfume-icon  i{
   font-size:65px;
@@ -1466,9 +1475,11 @@ margin-top:150px;
       border:2px  solid  rgb(245, 241, 42);
       border-radius:33px;
       float:left;
+           
+
           }
        .team{
-width:330px;
+width:350px;
 height:450px;
 border:3px  solid  rgb(245, 241, 42);
 border-radius:33px;
@@ -1483,6 +1494,9 @@ float:left;
  position:relative;
 line-height:30px;
 font-style:italic;
+  margin-left:200px;
+
+
       }
     .team img{
       border:3px  solid  rgb(247, 243, 59);
@@ -1593,6 +1607,7 @@ padding-top:60px;
        font-size:18PX;
        float:left;
        position:relative;
+       margin-left:200px;
          
                     }
    .recent7{
@@ -1730,6 +1745,7 @@ padding-top:60px;
 
   .computer{
      width:100%;
+     min-width:100%;
      height:670PX;
         background-color:rgb(49, 49, 47);
            position:relative;
@@ -1744,7 +1760,7 @@ padding-top:60px;
                padding-top:110px;
                position:relative;
                       z-index:9999;
-                      margin: auto;
+                      margin:auto;
                    }
  .computer-p{
         width:950px;
@@ -1757,13 +1773,13 @@ padding-top:60px;
                margin-left:99px;
             }
  .computer-content  img{
-                margin-top:40px;
-              
+                margin-top:99px;
+              margin-left:298px;
                            }
                                                          
  .computer-circleS{
                     margin-bottom:10PX;
-                     margin-left:99px;
+                   margin-left:298px;
 
                               }
  .computer-circle{
@@ -1833,14 +1849,4 @@ float:right;
 
                                     /* *******************************
                                                                    Footer
-                                                                  ******************************** */
-
-  .container {
-    width: 100%;
-    max-width: 1650px; /* أقصى عرض للشاشة الكبيرة */
-    margin-left:auto;
-    margin-right:auto;
-    margin:auto;
-}
-/* مثال لترتيب الكروت بمرونة */
-
+     
